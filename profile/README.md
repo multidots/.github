@@ -23,6 +23,7 @@ We are looking for thinkers, believers & visionaries to join our teams to help o
 Join forces with Multidots and unlock your digital potential today. 
 
 ### Get In Touch
+
 <p align="center">
-<a href="https://www.multidots.com/contact-us/"><img src="" width="850"></a>
+<a href="https://www.multidots.com/contact-us/"><img src="https://www.multidots.com/wp-content/uploads/2019/08/mdinc-logo.svg" width="850"></a>
 </p>
