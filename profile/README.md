@@ -27,3 +27,9 @@ Join forces with Multidots and unlock your digital potential today.
 <p align="center">
 <a href="https://www.multidots.com/contact-us/"><img src="https://www.multidots.com/wp-content/uploads/2023/05/01_github_footer.png" width="650"></a>
 </p>
+
+### Get In Touch
+
+<p align="center">
+<a href="https://www.multidots.com/contact-us/"><img src="https://www.multidots.com/wp-content/uploads/2023/05/02_github_footer.png" width="650"></a>
+</p>
