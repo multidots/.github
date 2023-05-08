@@ -24,5 +24,5 @@ Join forces with Multidots and unlock your digital potential today.
 
 ### Get In Touch
 <p align="center">
-<a href="https://www.multidots.com/contact-us/"><img src="https://10up.com/uploads/2016/10/10up-Github-Banner.png" width="850"></a>
+<a href="https://www.multidots.com/contact-us/"><img src="" width="850"></a>
 </p>
