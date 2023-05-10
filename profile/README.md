@@ -23,6 +23,6 @@ We are looking for thinkers, believers & visionaries to join our teams to help o
 ### Get In Touch
 
 <p align="center">
-<a href="https://www.multidots.com/contact-us/"><img src="https://www.multidots.com/wp-content/uploads/2023/05/01_github_footer.png" width="850"></a>
+<a href="https://www.multidots.com/contact-us/"><img src="https://www.multidots.com/wp-content/uploads/2023/05/03_github_footer.jpg" width="850"></a>
 </p>
 
