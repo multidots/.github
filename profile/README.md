@@ -18,13 +18,11 @@ With our state-of-the-heart customer service, we have become go-to partners for 
 
 We also offer WordPress Plugins and Products to businesses through our other brands — [Multicollab](https://www.multicollab.com/) and [Dotstore](https://www.thedotstore.com/)
 
-We are looking for thinkers, believers & visionaries to join our teams to help our clients attain digital maturity through digital transformation and help build platforms empowering innovators to realise their visions. Check out our [Careers](https://careers.multidots.com) Page for current openings. 
-
-Join forces with Multidots and unlock your digital potential today. 
+We are looking for thinkers, believers & visionaries to join our teams to help our clients attain digital maturity through digital transformation and help build platforms empowering innovators to realise their visions. Join forces with Multidots and unlock your digital potential today. Check out our [Careers](https://careers.multidots.com) Page for current openings. 
 
 ### Get In Touch
 
 <p align="center">
-<a href="https://www.multidots.com/contact-us/"><img src="https://www.multidots.com/wp-content/uploads/2023/05/01_github_footer.png" width="650"></a>
+<a href="https://www.multidots.com/contact-us/"><img src="https://www.multidots.com/wp-content/uploads/2023/05/01_github_footer.png" width="850"></a>
 </p>
 
